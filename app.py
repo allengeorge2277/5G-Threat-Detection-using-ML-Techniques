@@ -27,7 +27,7 @@ def check_segment_access(user_role, zone):
 
 # Mobile Notification Function
 from pushbullet import Pushbullet
-pb = Pushbullet("o.Dm859MChKLtWGVwBF93eHhsOUbVUfpTm")
+pb = Pushbullet("add-pushbullet-key-from-the profile")
 
 def send_mobile_notification(title, message):
     pb.push_note(title, message)
