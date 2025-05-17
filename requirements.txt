@@ -4,3 +4,9 @@ random
 plyer
 streamlit_option_menu
 pushbullet.py
+numpy
+matplotlib
+scikit-learn
+tensorflow
+keras
+joblib
